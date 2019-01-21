@@ -1,0 +1,16 @@
+{
+  "name": "gql-server",
+  "version": "1.0.0",
+  "description": "Express-GraphQL example",
+  "scripts": {
+    "start": "node server2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Zemunik <zemunikantonio@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  }
+}
